@@ -1,0 +1,67 @@
+C:\Users\dandr\Desktop\FabricsApplication\FabricsApplication\bin\Debug\FabricsApplication.exe.config
+C:\Users\dandr\Desktop\FabricsApplication\FabricsApplication\bin\Debug\FabricsApplication.exe
+C:\Users\dandr\Desktop\FabricsApplication\FabricsApplication\bin\Debug\FabricsApplication.pdb
+C:\Users\dandr\Desktop\FabricsApplication\FabricsApplication\bin\Debug\EntityFramework.dll
+C:\Users\dandr\Desktop\FabricsApplication\FabricsApplication\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dandr\Desktop\FabricsApplication\FabricsApplication\bin\Debug\EntityFramework.xml
+C:\Users\dandr\Desktop\FabricsApplication\FabricsApplication\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dandr\Desktop\FabricsApplication\FabricsApplication\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\dandr\Desktop\FabricsApplication\FabricsApplication\obj\Debug\FabricsApplication.csproj.AssemblyReference.cache
+C:\Users\dandr\Desktop\FabricsApplication\FabricsApplication\obj\Debug\Captha.g.cs
+C:\Users\dandr\Desktop\FabricsApplication\FabricsApplication\obj\Debug\GuestProductWindow.g.cs
+C:\Users\dandr\Desktop\FabricsApplication\FabricsApplication\obj\Debug\MainWindow.g.cs
+C:\Users\dandr\Desktop\FabricsApplication\FabricsApplication\obj\Debug\App.g.cs
+C:\Users\dandr\Desktop\FabricsApplication\FabricsApplication\obj\Debug\FabricsApplication_Content.g.cs
+C:\Users\dandr\Desktop\FabricsApplication\FabricsApplication\obj\Debug\FabricsApplication_MarkupCompile.cache
+C:\Users\dandr\Desktop\FabricsApplication\FabricsApplication\obj\Debug\FabricsApplication_MarkupCompile.lref
+C:\Users\dandr\Desktop\FabricsApplication\FabricsApplication\obj\Debug\Captha.baml
+C:\Users\dandr\Desktop\FabricsApplication\FabricsApplication\obj\Debug\GuestProductWindow.baml
+C:\Users\dandr\Desktop\FabricsApplication\FabricsApplication\obj\Debug\MainWindow.baml
+C:\Users\dandr\Desktop\FabricsApplication\FabricsApplication\obj\Debug\FabricsApplication.g.resources
+C:\Users\dandr\Desktop\FabricsApplication\FabricsApplication\obj\Debug\FabricsApplication.Properties.Resources.resources
+C:\Users\dandr\Desktop\FabricsApplication\FabricsApplication\obj\Debug\FabricsApplication.csproj.GenerateResource.cache
+C:\Users\dandr\Desktop\FabricsApplication\FabricsApplication\obj\Debug\FabricsApplication.csproj.CoreCompileInputs.cache
+C:\Users\dandr\Desktop\FabricsApplication\FabricsApplication\obj\Debug\FabricsApplication.csproj.CopyComplete
+C:\Users\dandr\Desktop\FabricsApplication\FabricsApplication\obj\Debug\FabricsApplication.exe
+C:\Users\dandr\Desktop\FabricsApplication\FabricsApplication\obj\Debug\FabricsApplication.pdb
+C:\Users\dandr\Desktop\FabricsApplication\FabricsApplication\obj\Debug\AdministratorProductWindow.g.cs
+C:\Users\dandr\Desktop\FabricsApplication\FabricsApplication\obj\Debug\ClientProductWindow.g.cs
+C:\Users\dandr\Desktop\FabricsApplication\FabricsApplication\obj\Debug\ManagerProductWindow.g.cs
+C:\Users\dandr\Desktop\FabricsApplication\FabricsApplication\obj\Debug\AdministratorProductWindow.baml
+C:\Users\dandr\Desktop\FabricsApplication\FabricsApplication\obj\Debug\ClientProductWindow.baml
+C:\Users\dandr\Desktop\FabricsApplication\FabricsApplication\obj\Debug\ManagerProductWindow.baml
+H:\Рабочий стол\Day5\FabricsApplication\FabricsApplication\obj\Debug\FabricsApplication.csproj.AssemblyReference.cache
+H:\Рабочий стол\Day5\FabricsApplication\FabricsApplication\obj\Debug\FabricsApplication.csproj.SuggestedBindingRedirects.cache
+H:\Рабочий стол\Day5\FabricsApplication\FabricsApplication\obj\Debug\AdministratorProductWindow.g.cs
+H:\Рабочий стол\Day5\FabricsApplication\FabricsApplication\obj\Debug\Captha.g.cs
+H:\Рабочий стол\Day5\FabricsApplication\FabricsApplication\obj\Debug\ClientProductWindow.g.cs
+H:\Рабочий стол\Day5\FabricsApplication\FabricsApplication\obj\Debug\GuestProductWindow.g.cs
+H:\Рабочий стол\Day5\FabricsApplication\FabricsApplication\obj\Debug\MainWindow.g.cs
+H:\Рабочий стол\Day5\FabricsApplication\FabricsApplication\obj\Debug\ManagerProductWindow.g.cs
+H:\Рабочий стол\Day5\FabricsApplication\FabricsApplication\obj\Debug\RecordWindow.g.cs
+H:\Рабочий стол\Day5\FabricsApplication\FabricsApplication\obj\Debug\App.g.cs
+H:\Рабочий стол\Day5\FabricsApplication\FabricsApplication\obj\Debug\FabricsApplication_Content.g.cs
+H:\Рабочий стол\Day5\FabricsApplication\FabricsApplication\obj\Debug\FabricsApplication_MarkupCompile.cache
+H:\Рабочий стол\Day5\FabricsApplication\FabricsApplication\obj\Debug\FabricsApplication_MarkupCompile.lref
+H:\Рабочий стол\Day5\FabricsApplication\FabricsApplication\obj\Debug\FabricsApplication.exe
+H:\Рабочий стол\Day5\FabricsApplication\FabricsApplication\obj\Debug\FabricsApplication.pdb
+H:\Рабочий стол\Day5\FabricsApplication\FabricsApplication\bin\Debug\FabricsApplication.exe.config
+H:\Рабочий стол\Day5\FabricsApplication\FabricsApplication\bin\Debug\FabricsApplication.exe
+H:\Рабочий стол\Day5\FabricsApplication\FabricsApplication\bin\Debug\FabricsApplication.pdb
+H:\Рабочий стол\Day5\FabricsApplication\FabricsApplication\bin\Debug\EntityFramework.dll
+H:\Рабочий стол\Day5\FabricsApplication\FabricsApplication\bin\Debug\EntityFramework.SqlServer.dll
+H:\Рабочий стол\Day5\FabricsApplication\FabricsApplication\bin\Debug\EntityFramework.xml
+H:\Рабочий стол\Day5\FabricsApplication\FabricsApplication\bin\Debug\EntityFramework.SqlServer.xml
+H:\Рабочий стол\Day5\FabricsApplication\FabricsApplication\bin\Debug\ru\EntityFramework.resources.dll
+H:\Рабочий стол\Day5\FabricsApplication\FabricsApplication\obj\Debug\AdministratorProductWindow.baml
+H:\Рабочий стол\Day5\FabricsApplication\FabricsApplication\obj\Debug\Captha.baml
+H:\Рабочий стол\Day5\FabricsApplication\FabricsApplication\obj\Debug\ClientProductWindow.baml
+H:\Рабочий стол\Day5\FabricsApplication\FabricsApplication\obj\Debug\GuestProductWindow.baml
+H:\Рабочий стол\Day5\FabricsApplication\FabricsApplication\obj\Debug\MainWindow.baml
+H:\Рабочий стол\Day5\FabricsApplication\FabricsApplication\obj\Debug\ManagerProductWindow.baml
+H:\Рабочий стол\Day5\FabricsApplication\FabricsApplication\obj\Debug\RecordWindow.baml
+H:\Рабочий стол\Day5\FabricsApplication\FabricsApplication\obj\Debug\FabricsApplication.g.resources
+H:\Рабочий стол\Day5\FabricsApplication\FabricsApplication\obj\Debug\FabricsApplication.Properties.Resources.resources
+H:\Рабочий стол\Day5\FabricsApplication\FabricsApplication\obj\Debug\FabricsApplication.csproj.GenerateResource.cache
+H:\Рабочий стол\Day5\FabricsApplication\FabricsApplication\obj\Debug\FabricsApplication.csproj.CoreCompileInputs.cache
+H:\Рабочий стол\Day5\FabricsApplication\FabricsApplication\obj\Debug\FabricsApplication.csproj.CopyComplete
